@@ -6,6 +6,7 @@ This patch increases the difficulty by modifying enemy damage, hazards, bosses, 
 ## Author
 
 Created by: SuperShyguy MKW
+-You are free to distribute the patch, but give me credit.
 
 ## Installation
 
